@@ -14,3 +14,7 @@ Welcome to Disk Manager, a powerful Disk Management Software built using C# and 
  - 🌐 Efficiency: Disk Manager is built on cutting-edge technologies like Windows Presentation Foundation (WPF) and .NET Framework, ensuring a seamless, user-friendly experience.
  - 🔥 Optimize Your PC: Experience a faster, more efficient computer with optimized storage, all thanks to Disk Manager.
 
+# Download Now:
+The stable .msi version of Disk Manager will soon be available in this repository.
+
+You can find a high-level walkthrough on this project [here](https://www.youtube.com/watch?v=Vkb_YG3Y2Vg).
