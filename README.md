@@ -18,3 +18,6 @@ Welcome to Disk Manager, a powerful Disk Management Software built using C# and 
 The stable .msi version of Disk Manager will soon be available in this repository.
 
 You can find a high-level walkthrough on this project [here](https://www.youtube.com/watch?v=Vkb_YG3Y2Vg).
+
+# Workflow
+!(Images/Disk-Manager-Architectural-Diagram)
